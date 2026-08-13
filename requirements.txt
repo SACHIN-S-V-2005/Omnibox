@@ -1,0 +1,13 @@
+matplotlib
+Pillow
+fastapi
+requests
+uvicorn
+ultralytics
+opencv-python-headless
+opencv-contrib-python
+roboflow
+python-multipart
+torch
+torchvision
+torchaudio
